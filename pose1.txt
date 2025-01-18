@@ -1,0 +1,1 @@
+streamlit run d:\bearandbee\r\pose\pose_stream.py
